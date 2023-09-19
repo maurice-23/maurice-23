@@ -1,9 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Maurice</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
 <img src="[https://i.gifer.com/GYny.gif](http://sasj.tumblr.com/post/167670552610/geometric-animations-171119" width="400" align="right">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maurice-23" alt="maurice-23" /></a> </p>
 
 - 🔭 I’m currently working on **Mi coffee project**
 
