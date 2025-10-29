@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MauriceIRAGABA&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies for MauriceIRAGABA" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maurice-23&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies for MauriceIRAGABA" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 <p align="center">
   <!-- Main summary / top-level stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MauriceIRAGABA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub readme stats for MauriceIRAGABA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurice-23A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub readme stats for MauriceIRAGABA" />
 
   <!-- Contribution activity graph -->
   <br/>
