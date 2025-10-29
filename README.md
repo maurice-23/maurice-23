@@ -46,7 +46,7 @@
 
   <!-- Contribution activity graph -->
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauriceIRAGABA&theme=react-dark&area=true&hide_border=true" width="95%" alt="Contribution activity graph for MauriceIRAGABA" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurice-23&theme=react-dark&area=true&hide_border=true" width="95%" alt="Contribution activity graph for MauriceIRAGABA" />
 </p>
 
 > Note: I removed the streak card and the snake SVG (some third-party hosts are flaky). The two widgets above are the most stable and give the clearest overview.
