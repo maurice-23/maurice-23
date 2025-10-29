@@ -1,53 +1,55 @@
 <!-- ✨ Futuristic GitHub Profile for Maurice IRAGABA -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=00FFFF&height=220&text=Maurice%20IRAGABA%20🌌&fontColor=0D1117&fontAlignY=40&fontSize=50&desc=Full%20Stack%20Developer%20in%20the%20making%20💻&descAlignY=65&descAlign=50&font=Orbitron" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=00FFFF&height=220&text=Maurice%20IRAGABA%20🌌&fontColor=0D1117&fontAlignY=40&fontSize=50&desc=Full%20Stack%20Developer%20in%20the%20making%20💻&descAlignY=65&descAlign=50&font=Orbitron" alt="Futuristic banner: Maurice IRAGABA" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Maurice+IRAGABA+👋;Full+Stack+Developer+in+the+making+💻;Python+%7C+Next.js+%7C+MySQL+%7C+TailwindCSS+⚡;Welcome+to+my+digital+universe+🌌" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Maurice+IRAGABA+👋;Full+Stack+Developer+in+the+making+💻;Python+%7C+Next.js+%7C+MySQL+%7C+TailwindCSS+⚡;Welcome+to+my+digital+universe+🌌" alt="Typing animation: Hey there, I'm Maurice IRAGABA" />
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MauriceIRAGABA&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MauriceIRAGABA&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies for MauriceIRAGABA" />
 </p>
 
 ---
 
 ### 🌟 About Me  
 
-🧠 Currently learning **Backend Development (Python + FastAPI)**  
-🌍 Passionate about **building useful digital systems for communities**  
-🎯 Focused on **Citizen Engagement** and **eKibina**  
-💡 I enjoy **UI/UX design**, **data systems**, and **creative problem-solving**  
-⚽ Fun fact: If I weren’t coding, I’d be training like **Neymar Jr** ⚡  
+- 🧠 Currently learning **Backend Development (Python + FastAPI)**  
+- 🌍 Passionate about **building useful digital systems for communities**  
+- 🎯 Focused on **Citizen Engagement** and **eKibina**  
+- 💡 I enjoy **UI/UX design**, **data systems**, and **creative problem-solving**  
+- ⚽ Fun fact: If I weren’t coding, I’d be training like **Neymar Jr** ⚡  
 
 ---
 
 ### ⚙️ Tech Universe  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nextjs,react,tailwind,mysql,nodejs,git,github,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=python,nextjs,react,tailwind,mysql,nodejs,git,github,vscode,figma,docker" alt="Icons for Python, Next.js, React, Tailwind, MySQL, Node, Git, GitHub, VSCode, Figma, Docker" />
 </p>
 
 ---
 
 ### 🧠 Currently Building  
-🚀 **Citizen Complaints System MVP**  
-📊 **eKibina App**  
+- 🚀 **Citizen Complaints System MVP**  
+- 📊 **eKibina App**  
 
 ---
 
-### 📈 GitHub Analytics  
+### 📈 GitHub Analytics (stable & reliable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauriceIRAGABA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MauriceIRAGABA&theme=tokyonight&hide_border=true" height="165"/>
+  <!-- Main summary / top-level stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MauriceIRAGABA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub readme stats for MauriceIRAGABA" />
+
+  <!-- Contribution activity graph -->
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauriceIRAGABA&theme=react-dark&area=true&hide_border=true" width="95%" alt="Contribution activity graph for MauriceIRAGABA" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauriceIRAGABA&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
+> Note: I removed the streak card and the snake SVG (some third-party hosts are flaky). The two widgets above are the most stable and give the clearest overview.
 
 ---
 
@@ -61,9 +63,9 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:iragaba69k@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/iragaba69k"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://t.me/mauricefx12"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:iragaba69k@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Maurice" /></a>
+  <a href="https://x.com/iragaba69k"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X: iragaba69k" /></a>
+  <a href="https://t.me/mauricefx12"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: mauricefx12" /></a>
 </p>
 
 ---
@@ -71,9 +73,5 @@
 <h3 align="center">💬 “Code. Learn. Build. Repeat.”</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MauriceIRAGABA/MauriceIRAGABA/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=00FFFF&height=120" />
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=00FFFF&height=120" alt="Footer capsule wave" />
 </p>
