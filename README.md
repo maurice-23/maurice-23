@@ -14,7 +14,7 @@
 
 ---
 
-### 🌟 About Me  
+###  About Me  
 
 - 🧠 Currently learning **Backend Development (Python + FastAPI)**  
 - 🌍 Passionate about **building useful digital systems for communities**  
