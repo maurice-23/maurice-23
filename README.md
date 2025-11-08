@@ -1,7 +1,7 @@
 <!-- ✨ Futuristic GitHub Profile for Maurice IRAGABA -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=00FFFF&height=250&text=Maurice%20IRAGABA%20🌌&fontColor=0D1117&fontAlignY=40&fontSize=50&desc=Full%20Stack%20Developer%20in%20the%20making%20&descAlignY=65&descAlign=50&font=Orbitron" alt="Futuristic banner: Maurice IRAGABA" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=00FFFF&height=300&text=Maurice%20IRAGABA%20🌌&fontColor=0D1117&fontAlignY=40&fontSize=50&desc=Full%20Stack%20Developer%20in%20the%20making%20&descAlignY=65&descAlign=50&font=Orbitron" alt="Futuristic banner: Maurice IRAGABA" />
 </p>
 
 <h1 align="center">
