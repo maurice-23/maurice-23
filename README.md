@@ -1,4 +1,4 @@
-<!-- ✨ Futuristic GitHub Profile for Maurice IRAGABA -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=00FFFF&height=320&text=Maurice%20IRAGABA%20🌌&fontColor=0D1117&fontAlignY=40&fontSize=50&desc=Full%20Stack%20Developer%20in%20the%20making%20&descAlignY=65&descAlign=50&font=Orbitron" alt="Futuristic banner: Maurice IRAGABA" />
@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maurice-23&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies for MauriceIRAGABA" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maurice&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies for MauriceIRAGABA" />
 </p>
 
 ---
@@ -49,8 +49,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurice-23&theme=react-dark&area=true&hide_border=true" width="95%" alt="Contribution activity graph for MauriceIRAGABA" />
 </p>
 
-> Note: I removed the streak card and the snake SVG (some third-party hosts are flaky). The two widgets above are the most stable and give the clearest overview.
-
 ---
 
 ### 🪄 Dev Quote  
@@ -60,7 +58,7 @@
 
 ---
 
-### 🌐 Connect With Me  
+### Connect With Me  
 
 <p align="center">
   <a href="mailto:iragaba69k@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Maurice" /></a>
