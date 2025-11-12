@@ -42,7 +42,7 @@
 
 <p align="center">
   <!-- Main summary / top-level stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub readme stats for MauriceIRAGABA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub readme stats for MauriceIRAGABA" />
 
   <!-- Contribution activity graph -->
   <br/>
