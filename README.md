@@ -19,7 +19,7 @@
 - Currently learning **Backend Development (Express + FastAPI)**  
 - Passionate about **building useful digital systems for communities**  
 - Focused on **Citizen Engagement** and **eKibina**  
-- 💡 I enjoy **UI/UX design**, **data systems**, and **creative problem-solving**  
+- I enjoy **UI/UX design**, **data systems**, and **creative problem-solving**  
 - ⚽ Fun fact: If I weren’t coding, I’d be training like **Neymar Jr** ⚡  
 
 ---
