@@ -16,7 +16,7 @@
 
 ###  About Me  
 
-- 🧠 Currently learning **Backend Development (Python + FastAPI)**  
+- Currently learning **Backend Development (Python + FastAPI)**  
 - 🌍 Passionate about **building useful digital systems for communities**  
 - 🎯 Focused on **Citizen Engagement** and **eKibina**  
 - 💡 I enjoy **UI/UX design**, **data systems**, and **creative problem-solving**  
