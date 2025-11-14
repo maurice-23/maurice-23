@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maurice-23&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies for Maurice IRAGABA" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maurice&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies for Maurice IRAGABA" />
 </p>
 
 ---
