@@ -32,9 +32,9 @@
 
 ---
 
-### 🧠 Currently Building  
+### Currently Building  
 - 🚀 **Citizen Complaints System MVP**  
-- 📊 **eKibina App**  
+- 📊 **eKibina mobile App**  
 
 ---
 
