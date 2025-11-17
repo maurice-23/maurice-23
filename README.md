@@ -65,7 +65,6 @@
 ---
 
 <h3 align="center">💬 “Code. Learn. Build. Repeat.”</h3>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=00FFFF&height=120" alt="Footer capsule wave" />
 </p>
