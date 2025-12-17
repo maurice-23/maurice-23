@@ -1,4 +1,4 @@
-<p align="center">
+><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=00FFFF&height=320&text=Maurice%20IRAGABA%20🌌&fontColor=0D1117&fontAlignY=40&fontSize=50&desc=Full%20Stack%20Developer%20in%20the%20making%20&descAlignY=65&descAlign=50&font=Orbitron" alt="Futuristic banner: Maurice IRAGABA" />
 </p>
 <h1 align="center">
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=python,nextjs,react,tailwind,mysql,nodejs,git,github,vscode,figma,docker" alt="Icons for Python, Next.js, React, Tailwind, MySQL, Node, Git, GitHub, VSCode, Figma, Docker" />
 </p>
 
----
+--
 
 ### Currently Building  
 - 🚀 **Citizen Complaints System MVP**  
