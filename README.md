@@ -4,8 +4,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3001&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Maurice+IRAGABA+👋;Full+Stack+Developer+in+the+making+💻;Python+%7C+Next.js+%7C+React.js+%7C+Node.js+%7C+Native+%7C+TailwindCSS+⚡;Welcome+to+my+digital+universe+🌌" alt="Typing animation: Hey there, I'm Maurice IRAGABA" />
 </h1>
-
-
 ---
 
 ###  About Me  
