@@ -21,7 +21,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nextjs,react,tailwind,mysql,nodejs,git,github,vscode,figma,docker" alt="Icons for Python, Next.js, React, Tailwind, MySQL, Node, Git, GitHub, VSCode, Figma, Docker" />
 </p>
-
 --
 
 ### Currently Building  
