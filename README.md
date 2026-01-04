@@ -1,5 +1,5 @@
 ><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=00FFFF&height=320&text=Maurice%20IRAGABA%20🌌&fontColor=0D1117&fontAlignY=40&fontSize=50&desc=Full%20Stack%20Developer%20in%20the%20making%20&descAlignY=65&descAlign=50&font=Orbitron" alt="Futuristic banner: Maurice IRAGABA." />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=00FFFF&height=320&text=Maurice%20IRAGABA%20🌌&fontColor=0D1117&fontAlignY=40&fontSize=50&desc=Full%20Stack%20Developer%20in%20the%20making%20&descAlignY=65&descAlign=50&font=Orbitron" alt="Futuristic banner: Maurice IRAGABA" />
 </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3001&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Maurice+IRAGABA+👋;Full+Stack+Developer+in+the+making+💻;Python+%7C+Next.js+%7C+React.js+%7C+Node.js+%7C+Native+%7C+TailwindCSS+⚡;Welcome+to+my+digital+universe+🌌" alt="Typing animation: Hey there, I'm Maurice IRAGABA" />
