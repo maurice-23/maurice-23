@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maurice-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub readme stats for MauriceIRAGABA" />
 
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurice-23&theme=react-dark&area=true&hide_border=true" width="95%" alt="Contribution activity graph for MauriceIRAGABA" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurice&theme=react-dark&area=true&hide_border=true" width="95%" alt="Contribution activity graph for MauriceIRAGABA" />
 </p>
 
 ---
