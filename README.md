@@ -31,7 +31,7 @@
 ### 📈 GitHub Analytics (stable & reliable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurice-23&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=maurice&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true"
      height="165"
      alt="GitHub readme stats for MauriceIRAGABA" />
 
