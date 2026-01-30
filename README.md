@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i.ibb.co/cSwKxfCp/Gemini-Generated-Image-pqxl12pqxl12pqxl.png" alt="MAURICE IRAGABA - Cyber Header" width="100%">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEER;FULL+STACK+ARCHITECT;SYSTEMS+DESIGNER" alt="Typing SVG" />
 </p>
 
