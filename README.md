@@ -13,7 +13,7 @@
 ### 🖥️ SYSTEM DIAGNOSTICS
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" >
       <h4>Profile</h4>
       I am a Full Stack Developer dedicated to high-performance web solutions. I focus on building scalable systems with a community-first approach.
       <br/><br/>
